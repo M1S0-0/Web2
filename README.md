@@ -49,6 +49,7 @@ I am currently open for **freelance collaborations** and **contract-based engage
 | Ack | <img src="https://logos.bugcrowdusercontent.com/logos/ab82/f209/e10cbcfd/22e0d74fa03ce78bbb1e3a8498a2be34_Screenshot_2020-07-16_at_17.24.58.png" alt="Global Fashion Group" width="15"/> [Global Fashion Group](https://global-fashion-group.com/) | Ecommerce  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | --|
 | 4 | <img src="https://logos.bugcrowdusercontent.com/logos/5ce2/c653/f20cfea9/6aba22da0a3dad9d3edf68c6a99b2dcb_Aurory_Twitter.jpg" alt="Aurory" width="15"/> [Aurory](https://app.aurory.io/) | Ecommerce  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | --|
 | Ack | <img src="https://logos.bugcrowdusercontent.com/logos/00a8/bf3f/410e5066/709e46cb8db3ae49d21f94f8d541ff32_8565b07b8c343e83379cb46ea7d34f68_201007_homegate_logo_x.png" alt="ImmoScout24" width="15"/> [ImmoScout24](https://www.immoscout24.ch/) | Business  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-2-gray) | Fixed ✅ | --|
+| 1 | <img src="https://profile-photos.hackerone-user-content.com/variants/1ptsay5b0ewzwnwczftdf9ec1kx1/05446da41f007749e01056d6fab408795961973bda37e2324207b60c717d9f0d" alt="Greenfly" width="15"/> [Greenfly](https://www.greenfly.com/) | Business  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | --|
 ---
 
 ## 🏅 Hall of Fame  
@@ -94,6 +95,9 @@ I am currently open for **freelance collaborations** and **contract-based engage
   </a>&nbsp;&nbsp;
  <a href="https://www.immoscout24.ch/" title="ImmoScout24">
     <img src="https://logos.bugcrowdusercontent.com/logos/00a8/bf3f/410e5066/709e46cb8db3ae49d21f94f8d541ff32_8565b07b8c343e83379cb46ea7d34f68_201007_homegate_logo_x.png" alt="ImmoScout24" height="50" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.greenfly.com/" title="Greenfly">
+    <img src="https://profile-photos.hackerone-user-content.com/variants/1ptsay5b0ewzwnwczftdf9ec1kx1/05446da41f007749e01056d6fab408795961973bda37e2324207b60c717d9f0d" alt="Greenfly" height="50" />
   </a>&nbsp;&nbsp;
 </p>
 
