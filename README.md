@@ -1,6 +1,6 @@
 # 🛡️ M1S0 | Web2 Security Research  
 
-## 🧠 About Me  
+ 
 ## 🧑‍💻 About Me
 
 For full background, skills, and experience, please visit my **[Main Portfolio Profile](https://github.com/M1S0-0)**.  
