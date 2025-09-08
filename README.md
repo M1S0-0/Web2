@@ -35,8 +35,8 @@ I am currently open for **freelance collaborations** and **contract-based engage
 
 | Rank | Company | Description  | Findings | Status | Reports |
 |------|---------|-------------|----------|--------|----------|
-| 131 | <img src="https://logos.bugcrowdusercontent.com/logos/c63e/8e43/7338d03a/f1e1e5bbb52c73c333a29b25feba8aae_1024px-Dell_Logo.svg.png" alt="" width="15"/> [Dell](https://dell.com/) | Ecommerce  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-5-orange) ![L/I:0](https://img.shields.io/badge/L/I-42-gray) | Fixed ✅ | Reports|
-
+| 131 | <img src="https://logos.bugcrowdusercontent.com/logos/c63e/8e43/7338d03a/f1e1e5bbb52c73c333a29b25feba8aae_1024px-Dell_Logo.svg.png" alt="Dell" width="15"/> [Dell](https://dell.com/) | Ecommerce  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-5-orange) ![L/I:0](https://img.shields.io/badge/L/I-42-gray) | Fixed ✅ | Reports|
+| 44 | <img src="https://logos.bugcrowdusercontent.com/logos/28f4/22c0/c172b7f6/83c52a802161900a5899365746e1dd14_logo.png" alt="Cisco Meraki" width="15"/> [Cisco Meraki](https://meraki.cisco.com/) | Networking  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | Reports|
 ---
 
 ## 🏅 Hall of Fame  
@@ -44,8 +44,8 @@ I am currently open for **freelance collaborations** and **contract-based engage
   <a href="https://www.dell.com/" title="Dell">
     <img src="https://logos.bugcrowdusercontent.com/logos/c63e/8e43/7338d03a/f1e1e5bbb52c73c333a29b25feba8aae_1024px-Dell_Logo.svg.png" alt="Dell" height="50" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.cisco.com/" title="Cisco">
-    <img src="https://logos.bugcrowdusercontent.com/logos/8d8f/5377/13d3917b/477d9c47c80f82293eef3a46f0593630_cisco.jpeg" alt="Cisco" height="50" />
+  <a href="https://meraki.cisco.com/" title="Cisco Meraki">
+    <img src="https://logos.bugcrowdusercontent.com/logos/28f4/22c0/c172b7f6/83c52a802161900a5899365746e1dd14_logo.png" alt="Cisco Meraki" height="50" />
   </a>&nbsp;&nbsp;
   <a href="https://openai.com/" title="OpenAI">
     <img src="https://imgs.search.brave.com/C_tRam33duZGjvEbDFtLroyxW8AU0I5S7So-5cyCeD0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ2LzEvb3BlbmFp/LWxvZ28tcG5nX3Nl/ZWtsb2dvLTQ2NTIx/OC5wbmc" alt="OpenAI" height="50" />
