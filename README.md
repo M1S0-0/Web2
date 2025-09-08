@@ -47,6 +47,7 @@ I am currently open for **freelance collaborations** and **contract-based engage
 | 55 | <img src="https://logos.bugcrowdusercontent.com/logos/85ef/fd9f/64b4d4aa/2f3c9daceaf3e373888382aec1151148_bolt.jpeg" alt="Bolt" width="15"/> [Bolt](https://bolt.eu) | Business  | ![C/H:1](https://img.shields.io/badge/C/H-3-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-3-gray) | Fixed ✅ | Reports|
 | 21 | <img src="https://logos.bugcrowdusercontent.com/logos/ab3b/361c/bd9cc487/9224892564269a0295542710ce8f7362_images.png" alt="Chime" width="15"/> [Chime](https://www.chime.com/) | Business  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | Reports|
 | Ack | <img src="https://logos.bugcrowdusercontent.com/logos/ab82/f209/e10cbcfd/22e0d74fa03ce78bbb1e3a8498a2be34_Screenshot_2020-07-16_at_17.24.58.png" alt="Global Fashion Group" width="15"/> [Global Fashion Group](https://global-fashion-group.com/) | Ecommerce  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | Reports|
+| 4 | <img src="https://logos.bugcrowdusercontent.com/logos/5ce2/c653/f20cfea9/6aba22da0a3dad9d3edf68c6a99b2dcb_Aurory_Twitter.jpg" alt="Aurory" width="15"/> [Aurory](https://app.aurory.io/) | Ecommerce  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | Reports|
 ---
 
 ## 🏅 Hall of Fame  
@@ -87,7 +88,9 @@ I am currently open for **freelance collaborations** and **contract-based engage
       <a href="https://global-fashion-group.com/" title="Global Fashion Group">
     <img src="https://logos.bugcrowdusercontent.com/logos/ab82/f209/e10cbcfd/22e0d74fa03ce78bbb1e3a8498a2be34_Screenshot_2020-07-16_at_17.24.58.png" alt="Global Fashion Group" height="50" />
   </a>&nbsp;&nbsp;
-
+ <a href="https://app.aurory.io/" title="Aurory">
+    <img src="https://logos.bugcrowdusercontent.com/logos/5ce2/c653/f20cfea9/6aba22da0a3dad9d3edf68c6a99b2dcb_Aurory_Twitter.jpg" alt="Aurory" height="50" />
+  </a>&nbsp;&nbsp;
 
 </p>
 
