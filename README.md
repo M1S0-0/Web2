@@ -29,9 +29,9 @@ I am currently open for **freelance collaborations** and **contract-based engage
 
 ## 📑 Bug Bounty Achivements  
 
-| Rank | Company | Description  | Findings | Status |
-|------|---------|-------------|----------|--------|
-| 3 | <img src="logo.png" alt="Metropolis" width="15"/> [Dell](https://layer3.xyz/) | Incentive Infrastructure  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ |
+| Rank | Company | Description  | Findings | Status | Reports |
+|------|---------|-------------|----------|--------|----------|
+| 3 | <img src="logo.png" alt="Metropolis" width="15"/> [Dell](https://layer3.xyz/) | Incentive Infrastructure  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | Reports|
 
 ---
 
