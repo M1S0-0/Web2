@@ -75,4 +75,6 @@ I am currently open for **freelance collaborations** and **contract-based engage
 
 </p>
 
+🔒 Built with passion for security research — M1S0
+
 
