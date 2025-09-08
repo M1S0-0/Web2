@@ -1,4 +1,4 @@
-# 🛡️ M1S0 | Web2 Security Research  
+# 🛡️ M1S0 | Web2 Security Researcher
 
  
 ## 🧑‍💻 About Me
