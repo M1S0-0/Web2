@@ -35,7 +35,7 @@ I am currently open for **freelance collaborations** and **contract-based engage
 
 | Rank | Company | Description  | Findings | Status | Reports |
 |------|---------|-------------|----------|--------|----------|
-| 1 | <img src="logo.png" alt="" width="15"/> [Dell](https://dell.com/) | Ecommerce  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | Reports|
+| 131 | <img src="https://logos.bugcrowdusercontent.com/logos/c63e/8e43/7338d03a/f1e1e5bbb52c73c333a29b25feba8aae_1024px-Dell_Logo.svg.png" alt="" width="15"/> [Dell](https://dell.com/) | Ecommerce  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-5-orange) ![L/I:0](https://img.shields.io/badge/L/I-42-gray) | Fixed ✅ | Reports|
 
 ---
 
