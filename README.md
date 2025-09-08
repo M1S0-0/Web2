@@ -1,8 +1,11 @@
 # 🛡️ M1S0 | Web2 Security Research  
 
 ## 🧠 About Me  
-I am a security researcher specializing in **Web2 application security** with experience in bug bounty programs and vulnerability research.  
-My focus areas include **web applications, APIs**.  
+## 🧑‍💻 About Me
+
+For full background, skills, and experience, please visit my **[Main Portfolio Profile](https://github.com/M1S0)**.  
+This repository focuses only on my work and achievements in **Web2**.
+
 
 
 I am currently open for **freelance collaborations** and **contract-based engagements**.  
