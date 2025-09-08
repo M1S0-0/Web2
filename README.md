@@ -3,7 +3,7 @@
 ## 🧠 About Me  
 ## 🧑‍💻 About Me
 
-For full background, skills, and experience, please visit my **[Main Portfolio Profile](https://github.com/M1S0)**.  
+For full background, skills, and experience, please visit my **[Main Portfolio Profile](https://github.com/M1S0-0)**.  
 This repository focuses only on my work and achievements in **Web2**.
 
 
