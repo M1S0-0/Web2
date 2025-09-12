@@ -25,8 +25,8 @@ I am currently open for **freelance collaborations** and **contract-based engage
 ## 📊 Summary Stats
 <!-- Update these numbers as you go -->
 <p>
-  <img src="https://img.shields.io/badge/Reports-141-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Programs-15-0ea5e9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reports-142-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Programs-16-0ea5e9?style=flat-square" />
   <img src="https://img.shields.io/badge/Critical%2FHigh-17-red?style=flat-square" />
 </p>
 
@@ -41,6 +41,7 @@ I am currently open for **freelance collaborations** and **contract-based engage
 | Ack | <img src="https://imgs.search.brave.com/CJMs-KdBfmbFw7icG21vmM2VydTIlBqdJGA85FJRbkM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9wYXlw/YWwtbG9nby1wcmlu/dGVkLXBhcGVyLWNo/aXNpbmF1LW1vbGRv/dmEtc2VwdGVtYmVy/LWludGVybmV0LWJh/c2VkLWRpZ2l0YWwt/bW9uZXktdHJhbnNm/ZXItc2VydmljZS0x/MjgzNzM0ODcuanBn" alt="PayPal" width="15"/> [PayPal](https://www.paypal.com/) | Payment  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | --|
 | -- | <img src="https://logos.bugcrowdusercontent.com/logos/605d/97ab/be55d53b/3b8b67094243191dc0132258430846b4_comcast.jpeg" alt="Comcast" width="15"/> [Comcast](https://corporate.comcast.com/) | Business  | ![C/H:1](https://img.shields.io/badge/C/H-5-red) ![M:1](https://img.shields.io/badge/M-9-orange) ![L/I:0](https://img.shields.io/badge/L/I-49-gray) | Fixed ✅ | --|
 | 3 | <img src="https://imgs.search.brave.com/OHkr2iklaWOlzZopZSMrbwjjbA7a_ZknVqOrWuL_i-c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzE4LzEvZ29wcm8t/bG9nby1wbmdfc2Vl/a2xvZ28tMTgzNjEw/LnBuZw" alt="GoPro" width="15"/> [GoPro](https://gopro.com/en/us/) | Business  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-6-gray) | Fixed ✅ | --|
+| Ack | <img src="https://imgs.search.brave.com/iUharc-CnvLz83P05Ngzj1dki5D78CaxtyFPNInOzFI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzUwLzEvZ3Jvd3ct/bG9nby1wbmdfc2Vl/a2xvZ28tNTA3MTE4/LnBuZw" alt="Greenfly" width="15"/> [Groww](https://groww.in/) | Business  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | --|
 | 12 | <img src="https://logos.bugcrowdusercontent.com/logos/430b/03e7/50fb5ac6/e8183ba5646ba042785f6c80935df247_fusionauth_logo.jpeg" alt="FusionAuth" width="15"/> [FusionAuth](https://fusionauth.io/) | Security  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-2-gray) | Fixed ✅ | --|
 | 85 | <img src="https://logos.bugcrowdusercontent.com/logos/fb78/5acf/6dfe076a/f07c667fbae2cb9f6e147309206096f8_1667840511785.jpeg" alt="Gen Digital" width="15"/> [Gen Digital](https://www.gendigital.com/) | Firewall  | ![C/H:1](https://img.shields.io/badge/C/H-2-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-2-gray) | Fixed ✅ | --|
 | 55 | <img src="https://logos.bugcrowdusercontent.com/logos/85ef/fd9f/64b4d4aa/2f3c9daceaf3e373888382aec1151148_bolt.jpeg" alt="Bolt" width="15"/> [Bolt](https://bolt.eu) | Business  | ![C/H:1](https://img.shields.io/badge/C/H-3-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-3-gray) | Fixed ✅ | --|
@@ -49,6 +50,8 @@ I am currently open for **freelance collaborations** and **contract-based engage
 | 4 | <img src="https://logos.bugcrowdusercontent.com/logos/5ce2/c653/f20cfea9/6aba22da0a3dad9d3edf68c6a99b2dcb_Aurory_Twitter.jpg" alt="Aurory" width="15"/> [Aurory](https://app.aurory.io/) | Ecommerce  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | --|
 | Ack | <img src="https://logos.bugcrowdusercontent.com/logos/00a8/bf3f/410e5066/709e46cb8db3ae49d21f94f8d541ff32_8565b07b8c343e83379cb46ea7d34f68_201007_homegate_logo_x.png" alt="ImmoScout24" width="15"/> [ImmoScout24](https://www.immoscout24.ch/) | Business  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-2-gray) | Fixed ✅ | --|
 | 1 | <img src="https://profile-photos.hackerone-user-content.com/variants/1ptsay5b0ewzwnwczftdf9ec1kx1/05446da41f007749e01056d6fab408795961973bda37e2324207b60c717d9f0d" alt="Greenfly" width="15"/> [Greenfly](https://www.greenfly.com/) | Business  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | --|
+
+
 ---
 
 ## 🏅 Hall of Fame  
@@ -97,6 +100,9 @@ I am currently open for **freelance collaborations** and **contract-based engage
   </a>&nbsp;&nbsp;
   <a href="https://www.greenfly.com/" title="Greenfly">
     <img src="https://profile-photos.hackerone-user-content.com/variants/1ptsay5b0ewzwnwczftdf9ec1kx1/05446da41f007749e01056d6fab408795961973bda37e2324207b60c717d9f0d" alt="Greenfly" height="50" />
+  </a>&nbsp;&nbsp;
+   <a href="https://groww.in/" title="Groww">
+    <img src="https://imgs.search.brave.com/iUharc-CnvLz83P05Ngzj1dki5D78CaxtyFPNInOzFI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzUwLzEvZ3Jvd3ct/bG9nby1wbmdfc2Vl/a2xvZ28tNTA3MTE4/LnBuZw" alt="Groww" height="50" />
   </a>&nbsp;&nbsp;
 </p>
 
