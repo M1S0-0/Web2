@@ -25,8 +25,8 @@ I am currently open for **freelance collaborations** and **contract-based engage
 ## 📊 Summary Stats
 <!-- Update these numbers as you go -->
 <p>
-  <img src="https://img.shields.io/badge/Reports-142-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Programs-16-0ea5e9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reports-143-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Programs-17-0ea5e9?style=flat-square" />
   <img src="https://img.shields.io/badge/Critical%2FHigh-17-red?style=flat-square" />
 </p>
 
@@ -50,6 +50,7 @@ I am currently open for **freelance collaborations** and **contract-based engage
 | 4 | <img src="https://logos.bugcrowdusercontent.com/logos/5ce2/c653/f20cfea9/6aba22da0a3dad9d3edf68c6a99b2dcb_Aurory_Twitter.jpg" alt="Aurory" width="15"/> [Aurory](https://app.aurory.io/) | Ecommerce  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | --|
 | Ack | <img src="https://logos.bugcrowdusercontent.com/logos/00a8/bf3f/410e5066/709e46cb8db3ae49d21f94f8d541ff32_8565b07b8c343e83379cb46ea7d34f68_201007_homegate_logo_x.png" alt="ImmoScout24" width="15"/> [ImmoScout24](https://www.immoscout24.ch/) | Business  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-2-gray) | Fixed ✅ | --|
 | 1 | <img src="https://profile-photos.hackerone-user-content.com/variants/1ptsay5b0ewzwnwczftdf9ec1kx1/05446da41f007749e01056d6fab408795961973bda37e2324207b60c717d9f0d" alt="Greenfly" width="15"/> [Greenfly](https://www.greenfly.com/) | Business  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | --|
+| Private | <img src="https://logos.bugcrowdusercontent.com/logos/5c69/da0a/221a43e5/bb83d15e0fe00e4bb83baefbe9bcaab1_jetstar_logo.png" alt="Jetstar MBB" width="15"/> [Jetstar MBB](https://www.jetstar.com/) | Business  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | --|
 
 
 ---
@@ -103,6 +104,10 @@ I am currently open for **freelance collaborations** and **contract-based engage
   </a>&nbsp;&nbsp;
    <a href="https://groww.in/" title="Groww">
     <img src="https://imgs.search.brave.com/iUharc-CnvLz83P05Ngzj1dki5D78CaxtyFPNInOzFI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzUwLzEvZ3Jvd3ct/bG9nby1wbmdfc2Vl/a2xvZ28tNTA3MTE4/LnBuZw" alt="Groww" height="50" />
+  </a>&nbsp;&nbsp;
+   </a>&nbsp;&nbsp;
+   <a href="https://www.jetstar.com/" title="Jetstar MBB">
+    <img src="https://logos.bugcrowdusercontent.com/logos/5c69/da0a/221a43e5/bb83d15e0fe00e4bb83baefbe9bcaab1_jetstar_logo.png" alt="Jetstar MBB" height="50" />
   </a>&nbsp;&nbsp;
 </p>
 
